@@ -123,7 +123,7 @@
 
     <!-- Multiplayer -->
     <string name="play_online">PARTIDA RÁPIDA</string>
-    <string name="switch_server">Cambiar de Servidor</string>
+    <string name="switch_server">Cambiar Región</string>
     <string name="x_players">%s jugadores</string>
     <string name="x_player">%s jugador</string>
     <string name="x_online">%s conectado</string>
@@ -142,7 +142,7 @@
     <string name="room_full">Sala Llena</string>
     <string name="clan">Clan</string>
     <string name="friends">Amigos</string>
-    <string name="send_friend_request">Enviar Solicitud de Amistad</string>
+    <string name="send_friend_request">Solicitud de Amistad</string>
     <string name="friend_request_accepted">¡Ahora son Amigos!</string>
     <string name="send_friend_request_by_id_or_name">Envía una Solicitud de Amistad con el ID o el Nombre</string>
     <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
@@ -165,9 +165,9 @@
     <string name="competitive_menu">Menú Competitivo</string>
     <string name="competitive_history">Historial Competitivo</string>
     <string name="rating_label">Clasificación</string>
-    <string name="unrated">Sin Clasificar</string>
+    <string name="unrated">sin clasificar</string>
     <string name="find_opponent">ENCONTRAR OPONENTE</string>
-    <string name="leave_matchmaking">ABANDONAR EMPAREJAMIENTO</string>
+    <string name="leave_matchmaking">CANCELAR BÚSQUEDA</string>
     <string name="searching_ellipsis">Buscando…</string>
     <string name="competitive_entering">Entering…</string>
     <string name="x_searching_y_playing">%1$s Buscando · %2$s jugando</string>
@@ -208,7 +208,7 @@
     <string name="pick">Elegir</string>
     <string name="redeem_code">Código Canjeado</string>
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
+    <string name="boosters">Potenciadores</string>
     <string name="booster_permanent_upgrades">Permanent Upgrades</string>
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
@@ -391,7 +391,7 @@
     <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
     <string name="no_youtube_link">No Link</string>
     <string name="created">Creada %s</string>
-    <string name="last_seen">Última Vez %s</string>
+    <string name="last_seen">Últ. vez %s</string>
     <string name="save_profile_description">Guardar Descripción del Perfil</string>
     <string name="profile_description_placeholder">Escribe una Descripción</string>
     <string name="profile_description_save_success">Descripción del Perfil Guardada</string>
@@ -416,7 +416,7 @@
     <string name="profile_animated_circle_gradient">Círculo de Perfil con Degradado Animado</string>
     <string name="prerequisite_not_met">Debes Desbloquear %s Primero</string>
     <string name="prerequisite_feature">Característica Requerida</string>
-    <string name="profile_name_color">COLOR DE NOMBRE DEL PERFIL</string>
+    <string name="profile_name_color">COLOR DE NOMBRE</string>
     <string name="profile_not_logged_in_error">No has iniciado Sesión. Por favor, Inicia Sesión Primero.</string>
     <string name="profile_name_changed_success">El Nombre de Perfil fue cambiado a %s</string>
     <string name="profile_name_change_failed">No se pudo cambiar el Nombre</string>
@@ -450,8 +450,8 @@
     <string name="unlock_name_fonts_already_unlocked">Ups, la Fuente de Nombre ya fue Desbloqueada.</string>
     <string name="name_font_save_success">¡Fuente Guardada!</string>
     <string name="name_fonts_not_unlocked">Ups, la Fuente de Nombre no ha sido Desbloqueada.</string>
-    <string name="profile_name_font">Fuente de Nombre del Perfil</string>
-    <string name="name_change_success">Nombre Cambiado a: %s</string>
+    <string name="profile_name_font">Fuente de Nombre</string>
+    <string name="name_change_success">El Nombre Cambió a: %s</string>
     <string name="name_change_invalid_length">Tamaño del Nombre no Válido</string>
     <string name="name_change_taken">Ups, este Nombre ya está en uso.</string>
     <string name="unlock_profile_colors">Desbloquear Colores de Perfil</string>
@@ -497,7 +497,7 @@
 
     <!-- Search Profile -->
     <string name="search_account">Buscar Cuenta</string>
-    <string name="search_account_by_id_or_name">Buscar Cuenta por el ID o Nombre</string>
+    <string name="search_account_by_id_or_name">Buscar por ID o Nombre</string>
     <string name="no_account_found">No se Encontró Ninguna Cuenta</string>
 
     <!-- Clan -->
@@ -684,7 +684,7 @@
     <string name="mail_title_too_long">Ups, el Asunto es demasiado largo.</string>
     <string name="mail_content_too_long">Ups, el Mensaje es demasiado largo.</string>
     <string name="mail_sent_success">Correo Enviado</string>
-    <string name="mark_unread">Marcar como No Leído</string>
+    <string name="mark_unread">No Leído</string>
     <string name="copy_verification_code">Copiar Código de Verificación</string>
     <string name="code_copied">¡El Código de Verificación se Copió con Éxito!</string>
 
@@ -753,13 +753,13 @@
     <!-- Buttons !-->
     <string name="buttons_shoot">Botón de Disparo</string>
     <string name="select_shoot">Seleccionar Disparo</string>
-    <string name="shoot">Disparar</string>
+    <string name="shoot">Disparo</string>
     <string name="buttons_split">Botón de Dividirse</string>
     <string name="select_split">Seleccionar Dividirse</string>
-    <string name="split">Dividirse</string>
+    <string name="split">Dividir</string>
     <string name="buttons_yinyang">Botón Ying-Yang</string>
     <string name="select_yinyang">Seleccionar Ying-Yang</string>
-    <string name="yinyang">Cambiar Ying-Yang</string>
+    <string name="yinyang">Cambiar</string>
     <string name="buttons_customize">Personalizar Controles</string>
     <string name="buttons_orientation_message">Las configuraciones personalizadas para modo vertical y horizontal se guardan por separado</string>
 
@@ -802,9 +802,9 @@
     <string name="stage_failed">Etapa %s Fallida!</string>
     <string name="restarting_adventure">Reiniciando Aventura…</string>
     <string name="server_in_maintenance">SERVIDOR EN MANTENIMIENTO.</string>
-    <string name="server_reboot">SERVIDOR REINICIADO</string>
+    <string name="server_reboot">REINICIANDO SERVIDOR</string>
     <string name="server_shutdown">SERVIDOR CAÍDO</string>
-    <string name="afk_disconnect">Desconectado por Inactividad</string>
+    <string name="afk_disconnect">CONEXIÓN PERDIDA (AFK)</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%dº</string>
