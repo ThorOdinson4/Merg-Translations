@@ -258,12 +258,12 @@
     <string name="booster_autoshoot_bought">Autoshoot Upgrade</string>
     <string name="booster_spawn_size_bought">Spawn Size Upgrade</string>
     <string name="booster_level_short">Nvl %1$d</string>
-    <string name="profile_name_change_bought">Cambio de Nombre del Perfil Comprado</string>
-    <string name="profile_name_color_bought">Color de Nombre del Perfil Comprado</string>
+    <string name="profile_name_change_bought">Cambio de Nombre Comprado</string>
+    <string name="profile_name_color_bought">Color de Nombre Comprado</string>
     <string name="profile_color_bought">Color del Perfil Comprado</string>
     <string name="profile_color_gradient_bought">Degradado del Perfil Comprado</string>
     <string name="profile_color_gradient_2_bought">Degradado Doble del Perfil Comprado</string>
-    <string name="profile_name_font_bought">Fuente de Nombre del Perfil Desbloqueado</string>
+    <string name="profile_name_font_bought">Fuente de Nombre Desbloqueada</string>
     <string name="admin_deduction">Deducción (STAFF)</string>
     <string name="giveaway">Premio de Giveaway</string>
     <string name="admin_reward_sent">Bonificación (STAFF) Enviada</string>
