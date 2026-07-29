@@ -72,7 +72,7 @@
     <string name="custom_background_opacity">Opacidad del Fondo</string>
     <string name="show_performance_metrics">Mostrar Estadísticas de Rendimiento</string>
     <string name="skin_outlines">Contorno de Skin</string>
-    <string name="delayed_auto_fire">Delayed Autosplit/shoot</string>
+    <string name="delayed_auto_fire">Autosplit/shoot Retrasado</string>
     <string name="direction_arrow">Flecha de Dirección</string>
     <string name="border_above_entities">Borde por Encima de las Entidades</string>
     <string name="map_border_visible">Borde del Mapa</string>
@@ -85,7 +85,7 @@
     <string name="name_position_below">Abajo</string>
     <string name="name_scale">Escala del Nombre</string>
     <string name="auto_spectate_killer">Espectar Automát. a Quién te Comió</string>
-    <string name="cycle_progressbar">Alternar Automát. Texto de la Barra EXP</string>
+    <string name="cycle_progressbar">Alt. Automát. Texto de la Barra EXP</string>
     <string name="verbose_in_game_ui">Interfaz de Juego Detallada</string>
     <string name="jitter_buffer">Estabilizador de Red</string>
     <string name="extrapolation">Extrapolación</string>
