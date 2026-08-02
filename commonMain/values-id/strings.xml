@@ -53,7 +53,7 @@
     <string name="language_turkish">Türkçe | Bahasa Turki</string>
     <string name="language_vietnamese">Tiếng Việt | Bahasa Vietnam</string>
     <string name="language_ukrainian">Українська | Bahasa Ukraina</string>
-    <string name="background">Latarbelakang</string>
+    <string name="background">Latar Belakang</string>
     <string name="background_black">Hitam</string>
     <string name="background_white">Putih</string>
     <string name="controls">Kontrol</string>
@@ -67,9 +67,9 @@
     <string name="show_grid">Tampilkan Grid</string>
     <string name="show_grid_coordinates">Tampilkan Koordinat Grid</string>
     <string name="show_coordinate_tint">Tampilkan Tinta Koordinat</string>
-    <string name="custom_background_image">Gambar Latarbelakang Kustom</string>
+    <string name="custom_background_image">Gambar Latar Belakang Kustom</string>
     <string name="custom_background_select">Pilih Gambar</string>
-    <string name="custom_background_opacity">Opasitas Latarbelakang</string>
+    <string name="custom_background_opacity">Opasitas Latar Belakang</string>
     <string name="show_performance_metrics">Tampilkan Metrik Kinerja</string>
     <string name="skin_outlines">Garis Luar Skin</string>
     <string name="delayed_auto_fire">Autosplit/shoot Tertunda</string>
