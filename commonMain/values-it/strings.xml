@@ -17,6 +17,7 @@
     <string name="code_contribution">Contributi al codice:</string>
     <string name="skins">Skin:</string>
     <string name="graphics_icons">Grafica/Icone:</string>
+    <string name="sound_effects_credit">Sound Effects:</string>
     <string name="translations">Traduzioni:</string>
     <string name="fonts">Fonts:</string>
 
@@ -60,10 +61,14 @@
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocco</string>
+    <string name="control_mouse">Mouse</string>
+    <string name="control_keyboard">Keyboard</string>
     <string name="button_layout">Layout pulsanti</string>
     <string name="customize">Personalizza</string>
     <string name="opacity">Opacità</string>
     <string name="leaderboard_size">Dimensione Classifica</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="sound_volume">Sound Volume</string>
     <string name="show_grid">Mostra Griglia</string>
     <string name="show_grid_coordinates">Mostra Coordinate Griglia</string>
     <string name="show_coordinate_tint">Mostra Tonalità Coordinate</string>
@@ -119,6 +124,7 @@
     <string name="relax">Relax</string>
     <string name="warning_no_holes">Le statistiche non saranno salvate</string>
     <string name="gold_holes">Buchi d\'Oro</string>
+    <string name="teleport_holes">Teleport Holes</string>
     <string name="starting_difficulty">Difficoltà iniziale</string>
 
     <!-- Multiplayer -->
@@ -210,6 +216,7 @@
     <!-- Boosters -->
     <string name="boosters">Boosters</string>
     <string name="booster_permanent_upgrades">Permanent Upgrades</string>
+    <string name="booster_owned">owned: %1$s</string>
     <string name="booster_ad_xp_title">Ad XP Multiplier</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
@@ -281,6 +288,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">Annuncio non ancora caricato</string>
+    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
     <string name="ad_show_failed">Impossibile mostrare l\'annuncio</string>
     <string name="ad_load_failed">Impossibile caricare l\'annuncio</string>
     <string name="ad_rate_limited">Hai guardato troppi annunci di recente. Riprova tra %s.</string>
@@ -383,6 +391,15 @@
     <string name="login">Accedi</string>
     <string name="login_google">Accedi con Google</string>
     <string name="login_apple">Accedi con Apple</string>
+    <string name="link_google">Link Google Sign-In</string>
+    <string name="link_apple">Link Apple Sign-In</string>
+    <string name="link_success">Sign-in method linked!</string>
+    <string name="link_already_linked">This sign-in method is already linked to your account.</string>
+    <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
+    <string name="link_email_taken">The email on this sign-in belongs to another Merg account.</string>
+    <string name="link_stepup_failed">Verification failed. Please try again.</string>
+    <string name="link_cancelled">Linking was cancelled.</string>
+    <string name="link_failed">Could not link sign-in method. Please try again.</string>
     <string name="logout">Disconnetti</string>
     <string name="logout_all_devices">Disconnetti Tutti i Dispositivi</string>
     <string name="change_name">Cambia Nome</string>
@@ -390,6 +407,7 @@
     <string name="share_id">Condividi ID</string>
     <string name="share_id_message">Aggiungimi su Merg! Il mio ID è %1$s</string>
     <string name="no_youtube_link">No Link</string>
+    <string name="no_tiktok_link">No Link</string>
     <string name="created">Creato il %s</string>
     <string name="last_seen">Ultimo accesso il %s</string>
     <string name="save_profile_description">Salva Descrizione Profilo</string>
@@ -476,6 +494,7 @@
     <string name="mod">MOD</string>
     <string name="verified">Verificato</string>
     <string name="youtube">YouTube</string>
+    <string name="tiktok">TikTok</string>
     <string name="translator">Traduttore</string>
     <string name="internal_tester">Tester Interno</string>
     <string name="alpha_tester">Alpha Tester</string>
@@ -699,6 +718,8 @@
     <string name="gamemode_coming_soon">Prossimamente</string>
     <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
+    <string name="gamemode_domination">Domination</string>
+    <string name="description_domination">Classic gameplay on a clock, where size only counts while you hold first place! Every second you spend as the biggest blob on the map adds a second to your score, and getting eaten never takes away the time you have already banked. Whoever held first the longest when the timer runs out wins!</string>
     <string name="description_classic">Mangia giocatori più piccoli e diventa la palla più grande dell\'universo! Avvalorati della tua dimensione per dominare la mappa, ma fai attenzione a giocatori più grandi che vogliono mangiarti!</string>
     <string name="description_teams">Unisci le forze con altri giocatori dello stesso colore! Lavorate insieme per intrappolare nemici e diventa la squadra più forte sulla classifica. I compagni di squadra non possono mangiarsi a vicenda.</string>
     <string name="description_survival">Una vita, un round! Raccogli il più che puoi durante il periodo di grazia. Dopodichè, la morte sarà permanente! Sii l\'ultimo sopravvissuto o il più grande quando scade il tempo per vincere!</string>
@@ -735,6 +756,8 @@
     <string name="adventure_obj_reach_size">Raggiungi la Dimensione %d</string>
     <string name="adventure_obj_finish_first">Arriva 1º</string>
     <string name="adventure_obj_collect_voidstones">Raccogli %d Voidstone</string>
+    <string name="adventure_obj_eat_count_bots">Eat %d Bots</string>
+    <string name="adventure_obj_boss_fight">Boss Fight</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tempo</string>
@@ -774,6 +797,7 @@
     <string name="skin_tab_level">Livello</string>
     <string name="skin_tab_voidstones">Voidstone</string>
     <string name="flags">Flags</string>
+    <string name="skin_tab_particles">Particles</string>
     <string name="skin_tab_special">Speciali</string>
     <string name="level_skin_locked">Questa skin si sblocca al Livello %d</string>
     <string name="level_lock">Blocco livello</string>
@@ -827,6 +851,8 @@
     <string name="decay">Decadimento: %.2f/s</string>
     <string name="pieces">Pezzi: %1d/%2d</string>
     <string name="merge">Unione: %ss</string>
+    <string name="throw_item_button">Throw item</string>
+    <string name="select_throw_item">Select throw item button</string>
     <string name="xp">XP</string>
     <string name="level">Livello</string>
     <string name="level_number">Livello %d</string>
