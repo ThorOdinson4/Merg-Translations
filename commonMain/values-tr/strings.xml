@@ -204,15 +204,15 @@
     <string name="current_season">Current Season</string>
 
     <!-- Shop -->
-    <string name="shop">Shop</string>
-    <string name="ticket">Ticket</string>
+    <string name="shop">Dükkan</string>
+    <string name="ticket">Bilet</string>
     <string name="free_voidstones">Free Voidstones!</string>
     <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
     <string name="free_voidstones_won">You got %d voidstones!</string>
     <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
     <string name="free_voidstones_left">%d left</string>
     <string name="pick">Pick</string>
-    <string name="redeem_code">Redeem Code</string>
+    <string name="redeem_code">Kodu Kullan</string>
     <!-- Boosters -->
     <string name="boosters">Güçlendiriciler</string>
     <string name="booster_permanent_upgrades">Kalıcı Yükseltmeler</string>
@@ -313,7 +313,7 @@
      <string name="november">Kasım</string>
      <string name="december">Aralık</string>
      <string name="season_bag_title">Currency Bag</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_entry">Sezon %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Current</string>
      <string name="season_bag_last">Last</string>
 
@@ -420,12 +420,12 @@
     <string name="description_text_color">Description Text Color</string>
     <string name="unlock_description_color_success">Description text color unlocked!</string>
     <string name="unlock_description_color_already_unlocked">Description text color already unlocked</string>
-    <string name="statistics">Statistics</string>
-    <string name="achievements">Achievements</string>
-    <string name="delete_account">DELETE ACCOUNT</string>
-    <string name="change_profile_name">Change Profile Name</string>
-    <string name="enter_profile_name">Enter Profile Name</string>
-    <string name="profile_color">PROFILE COLOR</string>
+    <string name="statistics">İstatistikler</string>
+    <string name="achievements">Başarımlar</string>
+    <string name="delete_account">HESABI SİL</string>
+    <string name="change_profile_name">Profil İsmi Değiştir</string>
+    <string name="enter_profile_name">Profil İsmi Gir</string>
+    <string name="profile_color">PROFİL RENGİ</string>
     <string name="profile_text_color_white">White text</string>
     <string name="profile_text_color_black">Black text</string>
     <string name="profile_gradient_color">Gradient color</string>
@@ -434,7 +434,7 @@
     <string name="profile_animated_circle_gradient">Animated circle Gradient</string>
     <string name="prerequisite_not_met">You must unlock %s first</string>
     <string name="prerequisite_feature">required feature</string>
-    <string name="profile_name_color">PROFILE NAME COLOR</string>
+    <string name="profile_name_color">PROFİL İSİM RENGİ</string>
     <string name="profile_not_logged_in_error">Not logged in. Please log in first.</string>
     <string name="profile_name_changed_success">Name changed to %s</string>
     <string name="profile_name_change_failed">Failed to change name</string>
@@ -468,8 +468,8 @@
     <string name="unlock_name_fonts_already_unlocked">Name fonts already unlocked</string>
     <string name="name_font_save_success">Font saved!</string>
     <string name="name_fonts_not_unlocked">Name fonts not unlocked</string>
-    <string name="profile_name_font">Profile Name Font</string>
-    <string name="name_change_success">Name changed to: %s</string>
+    <string name="profile_name_font">Profil İsmi Yazı Tipi</string>
+    <string name="name_change_success">İsim buna değiştirildi: %s</string>
     <string name="name_change_invalid_length">Invalid name length</string>
     <string name="name_change_taken">Name taken</string>
     <string name="unlock_profile_colors">Unlock Profile Colors</string>
@@ -520,9 +520,9 @@
     <string name="no_account_found">No account found</string>
 
     <!-- Clan -->
-    <string name="clan_create">Create Clan</string>
-    <string name="clan_name">Clan Name</string>
-    <string name="clan_name_hint">Enter clan name (max 14)</string>
+    <string name="clan_create">Klan Oluştur</string>
+    <string name="clan_name">Klan İsmi</string>
+    <string name="clan_name_hint">Klan ismi gir (maksimum 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
     <string name="clan_list">Public Clans</string>
