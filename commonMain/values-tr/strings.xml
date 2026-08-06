@@ -117,8 +117,8 @@
     <string name="bot_difficulty">Bot Zorluğu</string>
     <string name="decrease_bots">Botları Azalt</string>
     <string name="increase_bots">Botları Artır</string>
-    <string name="max_split_pieces">Max Split Pieces</string>
-    <string name="quick_merge">Quick Merge</string>
+    <string name="max_split_pieces">Maksimum Bölünme</string>
+    <string name="quick_merge">Hızlı Birleşme</string>
     <string name="no_holes">No Holes</string>
     <string name="circle_map">Circle Map</string>
     <string name="relax">Relax</string>
@@ -192,14 +192,14 @@
     <string name="match_status_starting">STARTING</string>
     <string name="match_status_in_progress">IN PROGRESS</string>
     <string name="match_status_finished">FINISHED</string>
-    <string name="victory">VICTORY</string>
-    <string name="defeat">DEFEAT</string>
-    <string name="draw">DRAW</string>
+    <string name="victory">ZAFER</string>
+    <string name="defeat">YENİLGİ</string>
+    <string name="draw">BERABERE</string>
     <string name="play_again">Play Again</string>
     <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
     <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
-    <string name="prizes">Prizes</string>
+    <string name="prizes">Ödüller</string>
     <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
     <string name="current_season">Current Season</string>
 
@@ -217,12 +217,12 @@
     <string name="boosters">Güçlendiriciler</string>
     <string name="booster_permanent_upgrades">Kalıcı Yükseltmeler</string>
     <string name="booster_owned">owned: %1$s</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
+    <string name="booster_ad_xp_title">Reklam XP Katlayıcı</string>
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
+    <string name="booster_watch_ad">Reklam İzle</string>
+    <string name="booster_choose_boost">XP katlayıcını seç</string>
+    <string name="booster_active">aktif</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Upgrade</string>
     <string name="booster_base_xp">Base XP Multiplier</string>
@@ -277,8 +277,8 @@
     <string name="admin_deduction_sent">Admin Deduction Sent</string>
     <string name="verify_reward">Verify Reward</string>
     <string name="competitive_season_reward">Competitive season reward</string>
-    <string name="purchase_remove_ads_label">Remove Ads</string>
-    <string name="purchase_status_permanent">Permanent</string>
+    <string name="purchase_remove_ads_label">Reklamları Kaldır</string>
+    <string name="purchase_status_permanent">Kalıcı</string>
     <string name="purchase_status_refunded">Refunded</string>
     <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
     <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
@@ -287,19 +287,19 @@
     <string name="purchase_season_pass_gold_gift_purchased">Season Pass Gold gift for #%d</string>
 
     <!-- Ads -->
-    <string name="ad_not_loaded">Ad not loaded yet</string>
+    <string name="ad_not_loaded">Reklam henüz yüklenmedi</string>
     <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
-    <string name="ad_show_failed">Failed to show ad</string>
+    <string name="ad_show_failed">Reklam gösterme başarısız</string>
     <string name="ad_load_failed">Failed to load ad</string>
-    <string name="ad_rate_limited">You've watched too many ads recently. Please try again in %s.</string>
-    <string name="time_hrs">hrs</string>
-    <string name="time_min">min</string>
-    <string name="time_sec">sec</string>
-    <string name="ad_reward">Ad reward</string>
+    <string name="ad_rate_limited">Çok fazla reklam izledin. Lütfen %s içinde tekrar dene.</string>
+    <string name="time_hrs">saat</string>
+    <string name="time_min">dakika</string>
+    <string name="time_sec">saniye</string>
+    <string name="ad_reward">Reklam Ödülü</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Season Pass</string>
-     <string name="season_pass_season_number">Season %s</string>
+     <string name="season_pass">Sezonluk Bilet</string>
+     <string name="season_pass_season_number">Sezon %s</string>
      <string name="january">Ocak</string>
      <string name="february">Şubat</string>
      <string name="march">Mart</string>
@@ -332,9 +332,9 @@
 
      <string name="season_pass_history_title">SEZONLUK BİLET GEÇMİŞİ</string>
      <string name="season_pass_history_cd">Geçmiş</string>
-     <string name="season_pass_history_empty">No rewards collected yet</string>
-     <string name="season_pass_history_stage_free">Stage %1$d (Free)</string>
-     <string name="season_pass_history_stage_paid">Stage %1$d (Paid)</string>
+     <string name="season_pass_history_empty">Henüz ödüller alınamadı</string>
+     <string name="season_pass_history_stage_free">Etap %1$d (Ücretsiz)</string>
+     <string name="season_pass_history_stage_paid">Etap %1$d (Ödenmiş)</string>
      <string name="season_pass_history_task_daily">Günlük Görev: %1$s</string>
      <string name="season_pass_history_task_weekly">Haftalık Görev: %1$s</string>
      <string name="season_pass_history_task_season">Sezinluk Görev: %1$s</string>
