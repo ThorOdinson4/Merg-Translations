@@ -122,7 +122,7 @@
     <string name="no_holes">No Holes</string>
     <string name="circle_map">Circle Map</string>
     <string name="relax">Relax</string>
-    <string name="warning_no_holes">İstatistikler kaydedilmeyecektir</string>
+    <string name="warning_no_holes">İstatistikler kaydedilmeyecek</string>
     <string name="gold_holes">Gold Holes</string>
     <string name="teleport_holes">Teleport Holes</string>
     <string name="starting_difficulty">Starting difficulty</string>
@@ -149,7 +149,7 @@
     <string name="clan">Klan</string>
     <string name="friends">Arkadaşlar</string>
     <string name="send_friend_request">Arkadaşlık isteği gönder</string>
-    <string name="friend_request_accepted">Artık arkadaş oldunuz!</string>
+    <string name="friend_request_accepted">Artık arkadaşsınız!</string>
     <string name="send_friend_request_by_id_or_name">Send a Friend Request by ID or Name</string>
     <string name="cancel_friend_request">Cancel Friend Request</string>
     <string name="remove_friend">Remove Friend</string>
@@ -337,9 +337,9 @@
      <string name="season_pass_history_stage_paid">Etap %1$d (Ödenmiş)</string>
      <string name="season_pass_history_task_daily">Günlük Görev: %1$s</string>
      <string name="season_pass_history_task_weekly">Haftalık Görev: %1$s</string>
-     <string name="season_pass_history_task_season">Sezinluk Görev: %1$s</string>
+     <string name="season_pass_history_task_season">Sezonluk Görev: %1$s</string>
      <string name="season_pass_history_season_page">Sezon %1$d</string>
-     <string name="season_pass_history_revoked_stage_paid">Etap %1$d (Paid) — revoked</string>
+     <string name="season_pass_history_revoked_stage_paid">Etap %1$d (Ödenmiş) - İptal Edildi</string>
      <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
      <string name="season_pass_history_revoked_unlock">Unlock removed</string>
      <string name="season_pass_history_revoked_trigger_refund">Season Pass Gold refunded</string>
@@ -469,7 +469,7 @@
     <string name="name_font_save_success">Font saved!</string>
     <string name="name_fonts_not_unlocked">Name fonts not unlocked</string>
     <string name="profile_name_font">Profil İsmi Yazı Tipi</string>
-    <string name="name_change_success">İsim buna değiştirildi: %s</string>
+    <string name="name_change_success">İsim %s olarak değiştirildi</string>
     <string name="name_change_invalid_length">Invalid name length</string>
     <string name="name_change_taken">Name taken</string>
     <string name="unlock_profile_colors">Unlock Profile Colors</string>
